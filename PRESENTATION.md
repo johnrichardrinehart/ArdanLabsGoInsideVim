@@ -22,6 +22,18 @@ repo](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins).
 # Plugins
 
 ## [vim-go](https://github.com/fatih/vim-go)
+### Features
+  - Functions that test, compile, or install the working project.
+  - Syntax highlighting and code folding.
+  - Delve support.
+  - Language server integration
+  - Formatting
+  - Jump to token
+  - Documentation
+  - Import management
+  - Refactoring tools (rename)
+  - Linting integration
+  - Snippets
 
 ## [Syntastic](https://github.com/vim-syntastic/syntastic)
 
