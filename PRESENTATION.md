@@ -36,6 +36,10 @@ repo](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins).
   - Snippets
 
 ## [Syntastic](https://github.com/vim-syntastic/syntastic)
+  - Linting
+
+Note: Can provide formatting if external tools are installed and a linter which
+supports formatting is used.
 
 ## [tagbar](https://github.com/preservim/tagbar)
 
