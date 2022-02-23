@@ -26,3 +26,4 @@ development environment. This presentation should provide a good motivation for
 a sane Vim configuration that Go developers can source as an everyday driver or
 in an "emergency" situation to be productive in a foreign development
 environment.
+# ArdanLabsGoInsideVim
