@@ -48,7 +48,8 @@ supports formatting is used.
   - Compile
   - Error reporting
 
-## [vim-godef](https://github.com/dgryski/vim-godef)
+## [vim-godef (Deprecated)](https://github.com/dgryski/vim-godef)
+  - Jump to token
 
 ## [vim-go-extra](https://github.com/vim-jp/vim-go-extra)
 
