@@ -58,6 +58,16 @@ supports formatting is used.
 * Note: Hasn't been updated in >5 years.
 
 ## [go-ide](https://github.com/plentiform/go-ide)
+  - File browser (`fzf`) 
+  - Jump to token (`vim-go`)
+  - Autocompletion (`ncm2/ncm2-go` and `stamblerre/gocode` (deprecated))
+  - Snippets (`Ultisnips`)
+  - Debugger (`vim-go`)
+  - Import management (`vim-go`)
+  - Formatting (`vim-go`)
+
+* Note: `neovim`-only, apparently. Has a lot of dependencies including `python`
+  (`pynvim`) and `nerdfonts`. Has not been touched in >15 months.
 
 ## [govim](https://github.com/govim/govim)
 
