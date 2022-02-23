@@ -32,7 +32,7 @@ repo](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins).
   - Documentation
   - Import management
   - Refactoring tools (rename)
-  - Linting integration
+  - Linting integration (error reporting)
   - Snippets
 
 ## [Syntastic](https://github.com/vim-syntastic/syntastic)
@@ -45,6 +45,8 @@ supports formatting is used.
   - Jump to token
 
 ## [vim-compiler-go](https://github.com/rjohnsondev/vim-compiler-go)
+  - Compile
+  - Error reporting
 
 ## [vim-godef](https://github.com/dgryski/vim-godef)
 
