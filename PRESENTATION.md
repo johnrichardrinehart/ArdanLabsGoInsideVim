@@ -42,6 +42,7 @@ Note: Can provide formatting if external tools are installed and a linter which
 supports formatting is used.
 
 ## [tagbar](https://github.com/preservim/tagbar)
+  - Jump to token
 
 ## [vim-compiler-go](https://github.com/rjohnsondev/vim-compiler-go)
 
