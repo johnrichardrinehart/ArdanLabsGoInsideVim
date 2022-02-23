@@ -29,7 +29,7 @@ repo](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins).
   - Language server integration
   - Formatting
   - Jump to token
-  - Documentation
+  - View documentation
   - Import management
   - Refactoring tools (rename)
   - Linting integration (error reporting)
@@ -52,6 +52,10 @@ supports formatting is used.
   - Jump to token
 
 ## [vim-go-extra](https://github.com/vim-jp/vim-go-extra)
+  - View documentation
+  - Formatting
+
+* Note: Hasn't been updated in >5 years.
 
 ## [go-ide](https://github.com/plentiform/go-ide)
 
