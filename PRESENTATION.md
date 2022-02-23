@@ -17,3 +17,23 @@ IDE-like features for Go including language server support, jump to definition,
 tooltip information, autocomplete. You can find a list of recommended plugins
 for a variety of editors and IDEs on the official [golang
 repo](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins).
+
+
+# Plugins
+
+## [vim-go](https://github.com/fatih/vim-go)
+
+## [Syntastic](https://github.com/vim-syntastic/syntastic)
+
+## [tagbar](https://github.com/preservim/tagbar)
+
+## [vim-compiler-go](https://github.com/rjohnsondev/vim-compiler-go)
+
+## [vim-godef](https://github.com/dgryski/vim-godef)
+
+## [vim-go-extra](https://github.com/vim-jp/vim-go-extra)
+
+## [go-ide](https://github.com/plentiform/go-ide)
+
+## [govim](https://github.com/govim/govim)
+
